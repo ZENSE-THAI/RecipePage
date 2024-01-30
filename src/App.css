@@ -1,0 +1,29 @@
+
+
+:root {
+  --Nutmeg: #854632;
+  --Dark-Raspberry: #7b284f;
+  --White: hsl(0, 0%, 100%);
+  --Rose-White: #fff5fa;
+  --Eggshell: #f3e6d8;
+  --Light-Grey: #e4ded8;
+  --Wenge-Brown: #5f574e;
+  --Dark-Charcoal: #302d2c;
+}
+
+h1{
+  color: var(--Dark-Charcoal);
+}
+
+h2{
+  color: var(--Nutmeg);
+}
+
+p{
+  color: var(--Wenge-Brown);
+}
+
+
+body {
+  font-size: 1rem;
+}
